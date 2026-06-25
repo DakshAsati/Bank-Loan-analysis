@@ -226,10 +226,6 @@ Bank-Loan-Analysis/
 ## 👨‍💻 Author
 
 **Daksh Asati**
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-
 ---
 
 ⭐ If you found this project useful, don't forget to **Star** this repository.
